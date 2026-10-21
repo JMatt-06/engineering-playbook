@@ -102,6 +102,8 @@ python -m pytest --cov=. --cov-report=term-missing
 
 No numeric minimum coverage requirement will be established in version 0.3.
 
+The coverage floor is explicitly deferred to Amendment 1 at Session 15
+
 At Session 15, the team will review an actual coverage report from the application and establish a realistic minimum coverage percentage.
 
 Until Amendment 1, coverage reports will be used to identify areas needing additional tests, but no numeric coverage threshold will block merging.
